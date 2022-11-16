@@ -1,5 +1,4 @@
-# blank-html
-blank‘s website
+
 <!DOCTYPE html>
  <html lang="en">
  <head>
