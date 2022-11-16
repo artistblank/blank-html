@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+emm.....其实我是一个漂亮的旋转立方体
  <html lang="en">
  <head>
      <meta charset="UTF-8">
@@ -18,7 +18,7 @@
              border: 1px solid #000;
              margin: 100px auto;
              perspective: 1000px;
-             background: linear-gradient(#a6acff,#ff9bc7);
+             background: linear-gradient(#a6acfe,#ff9bcc);
          }
          .space:hover section{
              animation-play-state: paused;
