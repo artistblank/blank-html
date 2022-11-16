@@ -1,5 +1,5 @@
 
-emm.....其实我是一个漂亮的旋转立方体
+emm.....其实我是一个漂亮的旋转立方体，点我一下我就不转喽，点一下空白的地方我又可以转辣
  <html lang="en">
  <head>
      <meta charset="UTF-8">
@@ -112,11 +112,11 @@ emm.....其实我是一个漂亮的旋转立方体
              <div class="face">
 
              </div>
-             <div class="face"></div>
-             <div class="face"></div>
-             <div class="face"></div>
-             <div class="face"></div>
-             <div class="face"></div>
+             <div class="face">你是最美丽的</div>
+             <div class="face">你是最可爱的</div>
+             <div class="face">你是最努力的</div>
+             <div class="face">你是最聪明的</div>
+             <div class="face">你是最优秀的</div>
              <div class="circle"></div>
          </section>
      </div>
