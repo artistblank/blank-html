@@ -110,14 +110,12 @@ emm.....其实我是一个漂亮的旋转立方体，点我一下我就不转喽
  <body>
      <div class="space">
          <section>
-             <div class="face">
-
-             </div>
-             <div class="face">你是最美丽的</div>
-             <div class="face">你是最可爱的</div>
-             <div class="face">你是最努力的</div>
-             <div class="face">你是最聪明的</div>
-             <div class="face">你是最优秀的</div>
+             <div class="face">1</div>
+             <div class="face">2</div>
+             <div class="face">3</div>
+             <div class="face">4</div>
+             <div class="face">5</div>
+             <div class="face">6</div>
              <div class="circle"></div>
          </section>
      </div>
