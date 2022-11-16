@@ -63,6 +63,7 @@ emm.....其实我是一个漂亮的旋转立方体，点我一下我就不转喽
              font-size: 30px;
              text-align: center;
              line-height: 300px;
+             color:#fff;
 
          }
          .face:nth-child(1){
